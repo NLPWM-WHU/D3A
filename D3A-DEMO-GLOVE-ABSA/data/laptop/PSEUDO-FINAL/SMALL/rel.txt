@@ -1,0 +1,150 @@
+ROOT-0 dobj-0 dobj-1 case-4 nmod-1 cc-1 conj-1 xcomp-6 det-10 compound-10 dobj-7 case-12 nmod-7 case-18 mwe-13 det-18 amod-18 amod-18 nmod-0 punct-0
+ROOT-0 dobj-0 dobj-1 case-4 nmod-1 cc-1 conj-1 xcomp-6 det-9 dobj-7 case-11 nmod-7 case-16 mwe-12 det-16 amod-16 nmod-0 case-18 nmod-16 punct-0
+ROOT-0 dobj-0 dobj-1 case-4 nmod-1 cc-1 conj-1 xcomp-6 det-10 amod-10 dobj-7 case-12 nmod-7 case-17 mwe-13 det-17 amod-17 nmod-0 punct-0
+nsubj-1 ROOT-1 det-6 compound-6 compound-6 compound-6 dobj-1 cc-1 aux-9 conj-1 advmod-11 amod-12 dobj-9 case-15 det-15 nmod-12 punct-1
+nsubj-1 ROOT-1 det-6 compound-6 compound-6 compound-6 dobj-1 cc-1 aux-9 conj-1 advmod-11 amod-12 dobj-9 case-15 det-15 nmod-12 punct-1
+nsubj-1 ROOT-1 det-6 compound-6 compound-6 compound-6 dobj-1 cc-1 aux-9 conj-1 advmod-11 amod-12 dobj-9 case-15 det-15 nmod-12 punct-1
+det-1 nsubj-3 advmod-3 ROOT-3 det-5 nsubj-8 aux-8 neg-8 ccomp-3 amod-10 dobj-8 cc-8 nsubj-13 conj-8 mark-15 xcomp-13 nmod:poss-17 dobj-15 case-20 det-20 nmod-17 punct-20 nsubj-26 cop-26 det-26 amod-26 acl:relcl-20 nsubj-29 advmod-29 acl:relcl-26 nmod:poss-31 dobj-29 nmod-29 punct-3
+det-1 nsubj-3 advmod-3 ROOT-3 det-6 punct-6 nsubj-16 punct-6 nsubj-11 aux-11 neg-11 acl:relcl-6 amod-13 dobj-11 cc-6 conj-6 ccomp-3 mark-18 xcomp-16 nmod:poss-20 dobj-18 case-23 det-23 nmod-20 punct-23 nsubj-29 cop-29 det-29 amod-29 acl:relcl-23 nsubj-32 advmod-32 acl:relcl-29 nmod:poss-34 dobj-32 nmod-32 punct-3
+det-2 amod-2 nsubj-4 advmod-4 ROOT-4 det-6 nsubj-9 aux-9 neg-9 ccomp-4 amod-11 dobj-9 cc-9 nsubj-14 conj-9 mark-16 xcomp-14 nmod:poss-18 dobj-16 case-21 det-21 nmod-18 punct-21 nsubj-27 cop-27 det-27 amod-27 acl:relcl-21 nsubj-30 advmod-30 acl:relcl-27 nmod:poss-32 dobj-30 nmod-30 punct-4
+compound-2 amod-2 ROOT-2 cc-2 conj-2 det-7 compound-7 dobj-4 punct-2
+compound-2 amod-2 ROOT-2 cc-2 conj-2 det-7 compound-7 dobj-4 punct-2
+compound-2 amod-2 ROOT-2 cc-2 conj-2 det-7 compound-7 dobj-4 punct-2
+det-2 amod-2 nsubj-4 dep-2 ROOT-4 det-6 dobj-4 mark-8 acl-6 case-11 det-11 nmod-8 case-15 det-15 amod-15 nmod-8 case-18 compound-18 nmod-15 case-20 nmod-18 punct-4 amod-23 dobj-4 case-25 nmod-23 cc-23 conj-23 mark-29 xcomp-27 compound:prt-29 det-32 dobj-29 case-35 det-35 nmod-29 punct-35 appos-35 punct-4
+det-2 amod-2 nsubj-4 dep-2 ROOT-4 det-6 dobj-4 mark-8 acl-6 case-11 det-11 nmod-8 case-15 det-15 amod-15 nmod-8 case-18 compound-18 nmod-15 case-20 nmod-18 punct-4 amod-23 dobj-4 case-25 nmod-23 cc-23 conj-23 mark-29 xcomp-27 compound:prt-29 det-32 dobj-29 case-35 det-35 nmod-29 punct-35 appos-35 punct-4
+det-2 amod-2 nsubj-4 dep-2 ROOT-4 det-6 dobj-4 mark-8 acl-6 case-11 det-11 nmod-8 case-15 det-15 amod-15 nmod-8 case-18 compound-18 nmod-15 case-20 nmod-18 punct-4 amod-23 dobj-4 case-25 nmod-23 cc-23 conj-23 mark-29 xcomp-27 compound:prt-29 det-32 dobj-29 case-35 det-35 nmod-29 punct-35 appos-35 punct-4
+nsubj-5 cop-5 case-5 amod-5 compound-5 ROOT-5 punct-5 conj-5 det-11 compound-11 compound-11 dobj-7 punct-5 cop-15 advmod-15 conj-5 punct-5 cop-19 advmod-19 conj-5 punct-5 auxpass-22 acl-5 case-24 nmod-22 case-28 advmod-27 amod-28 nmod-24 punct-5 cop-31 conj-5 mark-33 xcomp-31 punct-5 cc-5 cop-38 advmod-38 conj-5 punct-5
+nsubj-5 cop-5 case-5 amod-5 compound-5 ROOT-5 punct-5 conj-5 det-11 compound-11 compound-11 dobj-7 punct-5 cop-15 advmod-15 conj-5 punct-5 cop-19 advmod-19 conj-5 punct-5 auxpass-22 acl-5 case-24 nmod-22 case-29 advmod-27 amod-29 compound-29 nmod-24 punct-5 cop-32 conj-5 case-34 nmod-32 punct-5 cc-5 cop-39 advmod-39 conj-5 punct-5
+nsubj-4 cop-4 case-4 amod-4 ROOT-4 punct-4 conj-4 det-9 compound-9 dobj-6 punct-4 cop-13 advmod-13 conj-4 punct-4 cop-17 advmod-17 conj-4 punct-4 auxpass-20 acl-4 case-22 nmod-20 case-27 advmod-25 amod-27 compound-27 nmod-22 punct-4 cop-30 conj-4 case-32 nmod-30 punct-4 cc-4 cop-37 advmod-37 conj-4 punct-4
+ROOT-0 case-2 nmod-0 cc-0 aux-6 neg-6 conj-0 advmod-8 dobj-6 case-11 amod-11 nmod-8 punct-0
+ROOT-0 case-2 nmod-0 cc-0 aux-6 neg-6 conj-0 advmod-8 dobj-6 case-11 amod-11 nmod-8 punct-0
+ROOT-0 mark-2 ccomp-0 cc-2 aux-6 neg-6 conj-2 advmod-8 dobj-6 case-11 amod-11 nmod-8 punct-0
+nsubj-2 advmod-2 ROOT-2 nmod:poss-5 amod-5 dobj-2 nummod-5 punct-2 case-12 mwe-8 det-12 compound-12 nmod-2 dobj-15 nsubj-15 acl:relcl-12 punct-12 case-19 punct-19 nmod-12 punct-19 compound-22 conj-19 punct-19 conj-19 cc-19 conj-19 punct-2
+nsubj-2 advmod-2 ROOT-2 nmod:poss-5 amod-5 dobj-2 nummod-5 punct-2 case-11 mwe-8 det-11 nmod-2 dobj-14 nsubj-14 acl:relcl-11 punct-11 dep-11 punct-16 compound-19 root-17 punct-19 conj-19 punct-19 conj-19 cc-19 conj-19 punct-19
+nsubj-2 advmod-2 ROOT-2 nmod:poss-5 amod-5 dobj-2 nummod-5 punct-2 case-11 mwe-8 det-11 nmod-2 dobj-14 nsubj-14 acl:relcl-11 punct-11 case-18 punct-18 nmod-11 nummod-18 punct-18 compound-22 conj-18 punct-18 conj-18 cc-18 conj-18 punct-2
+ROOT-0 mark-2 acl-0 det-4 nsubj-13 nsubj-8 aux-8 neg-8 acl:relcl-4 det-11 compound-11 dobj-8 cop-13 ccomp-2 case-15 advcl-13 punct-0
+ROOT-0 mark-2 acl-0 det-4 nsubj-13 nsubj-8 aux-8 neg-8 acl:relcl-4 det-11 compound-11 dobj-8 cop-13 ccomp-2 case-15 advcl-13 punct-0
+ROOT-0 mark-2 acl-0 det-4 nsubj-13 nsubj-8 aux-8 neg-8 acl:relcl-4 det-11 compound-11 dobj-8 cop-13 ccomp-2 case-15 advcl-13 punct-0
+amod-1 ROOT-1 nsubj-3 acl:relcl-1 amod-6 amod-6 dobj-3 punct-1
+amod-1 ROOT-1 nsubj-3 acl:relcl-1 amod-7 amod-7 compound-7 dobj-3 punct-1
+amod-1 ROOT-1 nsubj-3 acl:relcl-1 amod-6 amod-6 dobj-3 punct-1
+nsubj-2 aux-2 ROOT-2 advmod-4 dobj-2 mark-6 acl-4 det-9 compound-9 dobj-6 punct-2
+nsubj-2 aux-2 ROOT-2 advmod-4 dobj-2 mark-6 acl-4 det-9 compound-9 dobj-6 punct-2
+nsubj-2 aux-2 ROOT-2 advmod-4 dobj-2 mark-6 acl-4 det-9 compound-9 dobj-6 punct-2
+nummod-1 nmod:tmod-3 nsubj-3 ROOT-3 det-6 amod-6 dobj-3 compound:prt-3 mark-9 advcl-3 dobj-9 punct-3 det-14 amod-14 nmod:tmod-16 nsubj-16 parataxis-3 dobj-16 compound:prt-16 punct-16 neg-21 dobj-16 punct-21 appos-21 det-31 amod-31 punct-31 nmod:npmod-28 dep-31 punct-31 nsubj-31 amod-23 cc-31 neg-34 conj-31 mark-38 nsubj-38 advmod-38 advcl-31 punct-3
+nummod-1 nmod:tmod-3 nsubj-3 ROOT-3 det-6 amod-6 dobj-3 compound:prt-3 mark-9 advcl-3 dobj-9 punct-3 det-14 amod-14 nmod:tmod-16 nsubj-16 parataxis-3 dobj-16 compound:prt-16 punct-16 neg-21 dobj-16 punct-21 appos-21 det-34 amod-29 punct-29 amod-29 nmod:npmod-29 amod-34 punct-34 punct-34 compound-34 punct-34 nsubj-35 acl:relcl-23 cc-35 neg-38 conj-35 mark-42 nsubj-42 advmod-42 advcl-38 punct-3
+nummod-1 nmod:tmod-3 nsubj-3 ROOT-3 det-6 amod-6 dobj-3 compound:prt-3 mark-9 advcl-3 dobj-9 punct-3 det-14 amod-14 nmod:tmod-16 nsubj-16 parataxis-3 dobj-16 compound:prt-16 punct-3 neg-24 punct-24 compound-24 punct-24 parataxis-3 punct-24 appos-24 dep-26 root-27 punct-28 root-29 amod-30 punct-30 nmod:npmod-35 nmod:npmod-35 root-32 cc-35 neg-38 conj-35 mark-42 nsubj-42 advmod-42 advcl-38 punct-35
+advmod-2 advmod-2 ROOT-2 punct-2 cc-2 nsubj-8 aux-8 aux-8 conj-2 compound:prt-8 dobj-8 case-13 det-13 nmod-8 case-18 det-18 amod-18 compound-18 nmod-13 punct-2 cc-2 advmod-22 conj-2 mark-24 xcomp-22 dobj-24 punct-2
+advmod-2 advmod-2 ROOT-2 punct-2 cc-2 nsubj-8 aux-8 aux-8 conj-2 compound:prt-8 dobj-8 case-13 det-13 nmod-8 case-18 det-18 amod-18 compound-18 nmod-13 punct-2 cc-2 advmod-22 conj-2 mark-24 xcomp-22 dobj-24 punct-2
+advmod-2 advmod-2 ROOT-2 punct-2 cc-2 nsubj-8 aux-8 aux-8 conj-2 compound:prt-8 dobj-8 case-13 det-13 nmod-8 case-18 det-18 amod-18 compound-18 nmod-13 punct-2 cc-2 advmod-22 conj-2 mark-24 xcomp-22 dobj-24 punct-2
+nsubj-1 ROOT-1 dobj-1 compound:prt-1 case-9 det-9 amod-9 cc-6 conj-6 nmod-1 amod-11 dep-9 nsubj-13 acl:relcl-11 dobj-13 mark-16 xcomp-13 det-19 compound-19 dobj-16 mark-21 advcl-16 punct-1
+nsubj-1 ROOT-1 dobj-1 compound:prt-1 case-9 det-9 amod-9 cc-6 conj-6 nmod-1 amod-11 dep-9 nsubj-13 acl:relcl-11 dobj-13 mark-16 xcomp-13 det-18 dobj-16 mark-20 advcl-16 punct-1
+nsubj-1 ROOT-1 dobj-1 compound:prt-1 case-9 det-9 amod-9 cc-6 conj-6 nmod-1 amod-11 dep-9 nsubj-13 acl:relcl-11 dobj-13 mark-16 xcomp-13 det-19 amod-19 dobj-16 mark-21 advcl-16 punct-1
+case-2 det-2 nmod-7 punct-7 det-5 nsubjpass-7 auxpass-7 ROOT-7 case-11 det-11 amod-11 nmod-7 punct-7 advmod-17 nsubj-17 aux-17 neg-17 parataxis-7 case-21 det-21 compound-21 nmod-17 mark-24 nsubj-24 advcl-17 dobj-24 punct-17 dep-17 dobj-27 advmod-27 punct-17 conj-17 det-33 dobj-31 cc-17 conj-17 dobj-35 advmod-38 amod-39 dobj-35 punct-7
+case-2 det-2 nmod-7 punct-7 det-5 nsubjpass-7 auxpass-7 ROOT-7 case-12 det-12 amod-12 compound-12 nmod-7 punct-7 advmod-18 nsubj-18 aux-18 neg-18 parataxis-7 case-23 det-23 compound-23 compound-23 nmod-18 mark-26 nsubj-26 advcl-18 dobj-26 punct-18 dep-18 dobj-29 advmod-29 punct-18 conj-18 det-35 dobj-33 cc-18 conj-18 dobj-37 advmod-40 amod-41 dobj-37 punct-7
+case-2 det-2 nmod-7 punct-7 det-5 nsubjpass-7 auxpass-7 ROOT-7 case-11 det-11 amod-11 nmod-7 punct-7 advmod-17 nsubj-17 aux-17 neg-17 parataxis-7 case-22 det-22 compound-22 compound-22 nmod-17 mark-25 nsubj-25 advcl-17 dobj-25 punct-17 dep-17 dobj-28 advmod-28 punct-17 conj-17 det-34 dobj-32 cc-17 conj-17 dobj-36 advmod-39 amod-40 dobj-36 punct-7
+advmod-10 punct-10 det-4 compound-4 nsubj-10 cc-4 amod-7 conj-4 case-9 nmod-7 ROOT-10 xcomp-10 det-13 nsubj-14 xcomp-11 mark-18 nsubj-18 cop-18 advcl-11 punct-10
+advmod-8 punct-8 det-3 nsubj-8 cc-3 amod-7 amod-7 conj-3 ROOT-8 xcomp-8 det-12 compound-12 nsubj-13 xcomp-9 mark-17 nsubj-17 cop-17 advcl-9 punct-8
+advmod-7 punct-7 det-3 nsubj-7 cc-3 amod-6 conj-3 ROOT-7 xcomp-7 det-10 nsubj-11 xcomp-8 mark-16 nsubj-16 cop-16 compound-16 advcl-8 punct-7
+cc-3 nsubj-3 cop-3 ROOT-3 cc-3 advmod-6 conj-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 case-13 nmod-10 case-17 cc-14 conj-14 nmod-10 punct-3
+cc-3 nsubj-3 cop-3 ROOT-3 cc-3 advmod-6 conj-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 case-13 nmod-10 case-17 cc-14 conj-14 nmod-10 punct-3
+cc-3 nsubj-3 cop-3 ROOT-3 cc-3 advmod-6 conj-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 case-13 nmod-10 case-17 cc-14 conj-14 nmod-10 punct-3
+nsubj-1 ROOT-1 det-3 dobj-1 punct-1
+nsubj-1 ROOT-1 det-3 dobj-1 punct-1
+nsubj-1 ROOT-1 det-3 dobj-1 punct-1
+nsubj-3 aux-3 neg-3 ROOT-3 det-5 dobj-3 compound:prt-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 mark-13 advcl-10 dobj-13 case-17 compound-17 nmod-14 acl-17 punct-3
+nsubj-3 aux-3 neg-3 ROOT-3 det-5 dobj-3 compound:prt-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 mark-13 advcl-10 dobj-13 case-17 compound-17 nmod-14 acl-17 punct-3
+nsubj-3 aux-3 neg-3 ROOT-3 det-5 dobj-3 compound:prt-3 mark-10 nsubj-10 aux-10 advcl-3 dobj-10 mark-13 advcl-10 dobj-13 case-17 compound-17 nmod-14 acl-17 punct-3
+discourse-2 punct-2 ROOT-2 punct-2
+discourse-2 punct-2 ROOT-2 punct-2
+discourse-2 punct-2 ROOT-2 punct-2
+ROOT-0 mark-6 nsubj-6 cop-6 nummod-6 amod-6 root-0 mark-10 nsubj-10 aux-10 advcl-6 case-13 det-13 nmod-10 ccomp-10 amod-16 dobj-14 expl-18 acl:relcl-16 amod-20 nsubj-18 mark-22 acl-20 mark-24 advcl-22 case-26 nmod-24 punct-6
+ROOT-0 mark-6 nsubj-6 cop-6 nummod-6 amod-6 root-0 mark-10 nsubj-10 aux-10 advcl-6 case-13 det-13 nmod-10 ccomp-10 amod-16 dobj-14 expl-18 acl:relcl-16 amod-20 nsubj-18 mark-22 acl-20 mark-24 advcl-22 case-26 nmod-24 punct-6
+ROOT-0 mark-6 nsubj-6 cop-6 nummod-6 amod-6 root-0 mark-10 nsubj-10 aux-10 advcl-6 case-13 det-13 nmod-10 ccomp-10 amod-16 dobj-14 expl-18 acl:relcl-16 amod-20 nsubj-18 mark-22 acl-20 mark-24 advcl-22 case-26 nmod-24 punct-6
+nsubj-1 ROOT-1 det-3 dobj-1 det-7 amod-7 compound-7 nsubj-8 acl:relcl-3 advmod-8 punct-1
+nsubj-1 ROOT-1 det-3 dobj-1 det-7 amod-7 compound-7 dep-3 advmod-7 punct-1
+nsubj-1 ROOT-1 det-3 dobj-1 det-6 amod-6 nsubj-7 acl:relcl-3 advmod-7 punct-1
+det-2 compound-2 nsubj-4 cop-4 ROOT-4 cc-4 conj-4 dep-6 advmod-7 case-10 advcl-8 punct-4
+det-1 nsubj-3 cop-3 ROOT-3 cc-3 conj-3 dep-5 advmod-6 case-9 advcl-7 punct-3
+det-1 nsubj-3 cop-3 ROOT-3 cc-3 conj-3 dep-5 advmod-6 case-9 advcl-7 punct-3
+case-3 det-3 amod-3 nmod-11 case-5 advmod-6 dep-3 cop-11 neg-11 case-11 nmod:poss-11 ROOT-11 case-15 advmod-15 det-15 nmod-11 punct-11
+case-3 det-3 amod-3 nmod-11 case-5 advmod-6 dep-3 cop-11 neg-11 case-11 nmod:poss-11 ROOT-11 case-15 advmod-15 det-15 nmod-11 punct-11
+case-3 det-3 amod-3 nmod-11 case-5 advmod-6 dep-3 cop-11 neg-11 case-11 nmod:poss-11 ROOT-11 case-15 advmod-15 det-15 nmod-11 punct-11
+det-1 nsubj-2 csubj-8 det-4 dobj-2 cc-4 conj-4 cop-8 ROOT-8 punct-8
+det-1 nsubj-2 csubj-8 det-4 dobj-2 cc-4 conj-4 cop-8 ROOT-8 punct-8
+det-1 nsubj-2 csubj-8 det-4 dobj-2 cc-4 conj-4 cop-8 ROOT-8 punct-8
+det-1 nsubj-6 case-3 nmod-1 case-5 nmod-3 ROOT-6 mark-18 advmod-10 nsubj-10 advcl-18 det-13 compound-13 dobj-10 case-15 nmod-10 punct-18 nsubj-18 ccomp-6 mark-20 xcomp-18 compound:prt-20 advmod-20 punct-18 cc-18 conj-18 det-29 advmod-28 amod-29 dobj-25 case-32 det-32 nmod-29 punct-6
+det-1 nsubj-6 case-3 nmod-1 case-5 nmod-3 ROOT-6 mark-18 advmod-10 nsubj-10 advcl-18 det-13 compound-13 dobj-10 case-15 nmod-10 punct-18 nsubj-18 ccomp-6 mark-20 xcomp-18 compound:prt-20 advmod-20 punct-18 cc-18 conj-18 det-29 advmod-28 amod-29 dobj-25 case-32 det-32 nmod-29 punct-6
+det-1 nsubj-6 case-3 nmod-1 case-5 nmod-3 ROOT-6 mark-18 advmod-10 nsubj-10 advcl-18 det-13 compound-13 dobj-10 case-15 nmod-10 punct-18 nsubj-18 ccomp-6 mark-20 xcomp-18 compound:prt-20 advmod-20 punct-18 cc-18 conj-18 det-29 advmod-28 amod-29 dobj-25 case-32 det-32 nmod-29 punct-6
+advmod-3 nsubj-3 advmod-3 ROOT-3 dobj-3 acl-4 mark-10 det:predet-9 nmod:poss-9 nsubj-10 advcl-5 dobj-10 acl-11 case-15 nmod:poss-15 nmod-12 mark-17 xcomp-12 cc-17 det-21 compound-21 nsubj-22 conj-17 punct-3
+advmod-3 nsubj-3 advmod-3 ROOT-3 dobj-3 acl-4 case-10 det:predet-10 nmod:poss-10 compound-10 nmod-5 dep-25 dep-25 dep-25 case-16 nmod:poss-16 nmod-13 mark-18 dep-25 cc-18 det-22 punct-22 conj-18 punct-22 nsubj-25 dep-10 punct-3
+advmod-3 nsubj-3 advmod-3 ROOT-3 dobj-3 acl-4 case-9 det:predet-9 nmod:poss-9 nmod-5 acl-9 dobj-10 acl-11 case-15 nmod:poss-15 nmod-12 mark-17 xcomp-12 cc-17 det-20 nsubj-21 conj-17 punct-3
+nsubj-4 aux-4 neg-4 advmod-4 ROOT-4 dobj-4 compound:prt-4 punct-4
+nsubj-4 aux-4 neg-4 advmod-4 ROOT-4 dobj-4 compound:prt-4 punct-4
+nsubj-4 aux-4 neg-4 advmod-4 ROOT-4 dobj-4 compound:prt-4 punct-4
+csubj-8 dobj-0 case-4 det-4 nmod-0 cop-8 det-8 amod-8 ROOT-8 punct-8 appos-8 case-14 amod-14 compound-14 nmod-10 punct-8 acl-8 mark-18 xcomp-16 dobj-18 advmod-18 punct-8 advmod-26 nsubj-26 cop-26 det-26 parataxis-8 punct-8
+csubj-8 dobj-0 case-4 det-4 nmod-0 cop-8 det-8 amod-8 ROOT-8 punct-8 conj-8 case-13 amod-13 nmod-10 punct-8 acl-8 mark-17 xcomp-15 dobj-17 advmod-17 punct-8 advmod-25 nsubj-25 cop-25 det-25 parataxis-8 punct-8
+csubj-8 dobj-0 case-4 det-4 nmod-0 cop-8 det-8 amod-8 ROOT-8 punct-8 conj-8 case-14 amod-14 compound-14 nmod-10 punct-8 acl-8 mark-18 xcomp-16 dobj-18 advmod-18 punct-8 advmod-26 nsubj-26 cop-26 det-26 parataxis-8 punct-8
+det-1 nsubj-3 cop-3 ROOT-3 case-5 nmod-3 cc-5 advmod-8 conj-5 advmod-3 punct-3
+det-1 nsubj-3 cop-3 ROOT-3 case-5 nmod-3 cc-5 advmod-8 conj-5 advmod-3 punct-3
+det-1 nsubj-3 cop-3 ROOT-3 case-6 punct-6 nmod-3 punct-6 conj-6 cc-6 advmod-11 conj-6 advmod-3 punct-3
+mark-1 advcl-12 advmod-3 nummod-4 dobj-1 case-8 det-8 compound-8 nmod-1 punct-12 nsubj-12 aux-12 ROOT-12 mark-17 nsubj-17 aux-17 neg-17 ccomp-12 xcomp-17 case-20 nmod-18 punct-12
+mark-1 advcl-11 advmod-3 nummod-4 dobj-1 case-7 det-7 nmod-1 punct-11 nsubj-11 aux-11 ROOT-11 mark-16 nsubj-16 aux-16 neg-16 ccomp-11 xcomp-16 case-19 nmod-17 punct-11
+mark-1 advcl-11 advmod-3 nummod-4 dobj-1 case-7 det-7 nmod-1 punct-11 nsubj-11 aux-11 ROOT-11 mark-16 nsubj-16 aux-16 neg-16 ccomp-11 xcomp-16 case-19 nmod-17 punct-11
+nsubj-2 aux-2 ROOT-2 det-5 compound-5 dobj-2 mark-7 acl-5 dobj-7 case-11 det-11 nmod-8 punct-2
+nsubj-2 aux-2 ROOT-2 det-5 compound-5 dobj-2 mark-7 acl-5 dobj-7 case-11 det-11 nmod-8 punct-2
+nsubj-2 aux-2 ROOT-2 det-5 compound-5 dobj-2 mark-7 acl-5 dobj-7 case-11 det-11 nmod-8 punct-2
+nsubj-2 det-2 ROOT-2 punct-2
+nsubj-2 det-2 ROOT-2 punct-2
+nsubj-2 det-2 ROOT-2 punct-2
+nsubj-5 cop-5 det-5 amod-5 compound-5 ROOT-5 dobj-10 nsubj-10 aux-10 neg-10 acl:relcl-5 punct-5
+nsubj-5 cop-5 det-5 amod-5 compound-5 ROOT-5 dobj-10 nsubj-10 aux-10 neg-10 acl:relcl-5 punct-5
+nsubj-5 cop-5 det-5 amod-5 compound-5 ROOT-5 dobj-10 nsubj-10 aux-10 neg-10 acl:relcl-5 punct-5
+expl-1 ROOT-1 det-4 amod-4 nsubj-1 cc-1 mwe-5 mwe-5 advmod-9 conj-1 punct-1
+expl-1 ROOT-1 det-4 amod-4 nsubj-1 cc-1 mwe-5 mwe-5 advmod-9 conj-1 punct-1
+expl-1 ROOT-1 det-4 amod-4 nsubj-1 cc-1 mwe-5 mwe-5 advmod-9 conj-1 punct-1
+advmod-1 ROOT-1 det-5 amod-5 compound-5 dep-1 cc-5 conj-5 punct-1
+advmod-1 ROOT-1 det-5 amod-5 compound-5 dep-1 cc-5 conj-5 punct-1
+advmod-1 ROOT-1 det-5 amod-5 compound-5 dep-1 cc-5 conj-5 punct-1
+punct-8 case-5 det-5 amod-5 nummod-5 nmod-8 nsubj-8 aux-8 ROOT-8 nsubj-14 nsubj-14 aux-14 neg-14 advmod-14 ccomp-8 det-16 dobj-14 punct-8
+punct-8 case-5 det-5 amod-5 nummod-5 nmod-8 nsubj-8 aux-8 ROOT-8 nsubj-14 nsubj-14 aux-14 neg-14 advmod-14 ccomp-8 det-16 dobj-14 punct-8
+punct-8 case-5 det-5 amod-5 nummod-5 nmod-8 nsubj-8 aux-8 ROOT-8 nsubj-14 nsubj-14 aux-14 neg-14 advmod-14 ccomp-8 det-16 dobj-14 punct-8
+nsubj-2 cop-2 ROOT-2 mark-4 advcl-2 det-6 dobj-4 punct-2 cc-2 nsubj-11 aux-11 conj-2 advmod-11 mark-14 advcl-11 amod-16 dobj-14 case-18 nmod-14 case-21 det-21 nmod-14 punct-2
+nsubj-2 cop-2 ROOT-2 mark-4 advcl-2 det-6 dobj-4 punct-2 cc-2 nsubj-11 aux-11 conj-2 advmod-11 mark-14 advcl-11 amod-16 dobj-14 case-18 nmod-14 case-21 det-21 nmod-14 punct-2
+nsubj-2 cop-2 ROOT-2 mark-4 advcl-2 det-6 dobj-4 punct-2 cc-2 nsubj-11 aux-11 conj-2 advmod-11 mark-14 advcl-11 amod-16 dobj-14 case-18 nmod-14 case-21 det-21 nmod-14 punct-2
+nsubj-2 aux-2 ROOT-2 xcomp-2 advmod-3 case-6 nmod-3 cc-2 expl-10 advmod-10 conj-2 punct-2
+nsubj-2 aux-2 ROOT-2 xcomp-2 advmod-3 case-6 nmod-3 cc-2 expl-10 advmod-10 conj-2 punct-2
+nsubj-2 aux-2 ROOT-2 xcomp-2 advmod-3 case-6 nmod-3 cc-2 expl-10 advmod-10 conj-2 punct-2
+det-2 amod-2 nsubj-9 case-5 det-5 nmod-2 cop-9 det-9 compound-9 ROOT-9 case-12 case-12 nmod-9 case-16 det-16 amod-16 nmod-12 case-18 nmod-16 punct-9
+det-2 amod-2 nsubj-8 case-5 det-5 nmod-2 cop-8 det-8 ROOT-8 case-11 case-11 nmod-8 case-16 det-16 amod-16 compound-16 nmod-11 punct-8
+det-2 amod-2 nsubj-9 case-5 det-5 nmod-2 cop-9 det-9 compound-9 ROOT-9 case-12 case-12 nmod-9 case-16 det-16 amod-16 nmod-12 punct-9
+nsubj-4 aux-4 neg-4 cop-4 ROOT-4 mark-6 xcomp-4 case-10 det-10 amod-10 nmod-6 cop-14 case-14 case-14 dep-4 punct-4
+nsubj-4 aux-4 neg-4 cop-4 ROOT-4 mark-6 xcomp-4 case-10 det-10 compound-10 nmod-6 cop-14 case-14 case-14 dep-4 punct-4
+nsubj-4 aux-4 neg-4 cop-4 ROOT-4 mark-6 xcomp-4 case-12 det-12 amod-12 amod-12 compound-12 nmod-6 cop-16 case-16 case-16 dep-4 punct-4
+cc-5 nsubj-5 aux-5 cop-5 advmod-5 ROOT-5 cc-5 conj-5 case-11 det-11 amod-11 nmod-5 punct-5
+cc-5 nsubj-5 aux-5 cop-5 advmod-5 ROOT-5 cc-5 conj-5 case-11 det-11 amod-11 nmod-5 punct-5
+cc-5 nsubj-5 aux-5 cop-5 advmod-5 ROOT-5 cc-5 conj-5 case-11 det-11 amod-11 nmod-5 punct-5
+aux-1 ROOT-1 cc-1 conj-1 nmod:poss-5 dobj-1 case-10 det-10 amod-10 compound-10 nmod-5 punct-1
+aux-1 ROOT-1 cc-1 conj-1 nmod:poss-5 dobj-1 case-10 det-10 amod-10 compound-10 nmod-5 punct-1
+aux-1 ROOT-1 cc-1 conj-1 nmod:poss-5 dobj-1 case-10 det-10 amod-10 compound-10 nmod-5 punct-1
+cc-4 advmod-4 nsubj-4 aux-4 ROOT-4 nmod:poss-7 det-7 dobj-4 case-10 det-10 nmod-7 punct-4
+cc-4 advmod-4 nsubj-4 aux-4 ROOT-4 nmod:poss-7 det-7 dobj-4 case-10 det-10 nmod-7 punct-4
+cc-4 advmod-4 nsubj-4 aux-4 ROOT-4 nmod:poss-7 det-7 dobj-4 case-10 det-10 nmod-7 punct-4
+nsubj-3 aux-3 neg-3 ROOT-3 det-6 amod-6 dobj-3 cc-6 conj-6 nsubj-10 acl:relcl-8 punct-3
+nsubj-3 aux-3 neg-3 ROOT-3 det-6 amod-6 dobj-3 cc-6 conj-6 nsubj-10 acl:relcl-8 punct-3
+nsubj-3 aux-3 neg-3 ROOT-3 det-6 amod-6 dobj-3 cc-6 conj-6 nsubj-10 acl:relcl-8 punct-3
+nsubj-1 ROOT-1 dobj-1 advmod-1 mark-5 advcl-1 advmod-8 nsubj-8 ccomp-5 dobj-8 case-12 det-12 nmod-8 punct-1
+nsubj-1 ROOT-1 dobj-1 advmod-1 mark-5 advcl-1 advmod-8 nsubj-8 ccomp-5 dobj-8 case-13 det-13 compound-13 nmod-8 punct-1
+nsubj-1 ROOT-1 dobj-1 advmod-1 mark-5 advcl-1 advmod-8 nsubj-8 ccomp-5 dobj-8 case-13 det-13 amod-13 nmod-8 punct-1
+cc-7 nsubj-7 cop-7 neg-7 advmod-7 nmod:poss-7 nummod-7 ROOT-7 punct-7
+cc-7 nsubj-7 cop-7 neg-7 advmod-7 nmod:poss-7 nummod-7 ROOT-7 punct-7
+cc-7 nsubj-7 cop-7 neg-7 advmod-7 nmod:poss-7 nummod-7 ROOT-7 punct-7
+nsubj-1 ROOT-1 iobj-1 det-5 compound-5 dobj-1 cc-1 mark-8 csubj-11 dobj-8 aux-11 conj-1 mark-14 nsubj-14 ccomp-11 dobj-14 case-18 nummod-18 nmod-14 cc-14 conj-14 dobj-20 cc-14 conj-14 nsubj-25 ccomp-23 det-28 amod-28 nsubjpass-31 aux-31 auxpass-31 ccomp-25 advmod-31 punct-1
+nsubj-1 ROOT-1 iobj-1 det-5 compound-5 dobj-1 cc-1 mark-8 csubj-11 dobj-8 aux-11 conj-1 mark-14 nsubj-14 ccomp-11 dobj-14 case-18 nummod-18 nmod-14 cc-14 conj-14 dobj-20 cc-14 conj-14 nsubj-25 ccomp-23 det-28 amod-28 nsubjpass-31 aux-31 auxpass-31 ccomp-25 advmod-31 punct-1
+nsubj-1 ROOT-1 iobj-1 det-5 compound-5 dobj-1 cc-1 mark-8 csubj-11 dobj-8 aux-11 conj-1 mark-14 nsubj-14 ccomp-11 dobj-14 case-18 nummod-18 nmod-14 cc-14 conj-14 dobj-20 cc-14 conj-14 nsubj-25 ccomp-23 det-28 amod-28 nsubjpass-31 aux-31 auxpass-31 ccomp-25 advmod-31 punct-1
+nsubj-2 aux-2 ROOT-2 case-5 det-5 nmod-2 nsubj-8 cop-8 acl:relcl-5 cc-8 conj-8 det:predet-14 det-14 compound-14 dobj-10 dobj-18 nsubj-18 aux-18 acl:relcl-14 nmod-18 punct-2
+nsubj-2 aux-2 ROOT-2 case-5 det-5 nmod-2 nsubj-8 cop-8 acl:relcl-5 cc-8 conj-8 det:predet-13 det-13 dobj-10 case-15 nmod-13 dobj-19 nsubj-19 aux-19 acl:relcl-13 nmod-19 punct-2
+nsubj-2 aux-2 ROOT-2 case-5 det-5 nmod-2 nsubj-8 cop-8 acl:relcl-5 cc-8 conj-8 det:predet-13 det-13 dobj-10 dobj-17 nsubj-17 aux-17 acl:relcl-13 nmod-17 punct-2
+nsubj-3 aux-3 advmod-3 ROOT-3 det-5 dobj-3 case-8 nmod:poss-8 nmod-3
+nsubj-3 aux-3 advmod-3 ROOT-3 det-5 dobj-3 case-8 nmod:poss-8 nmod-3
+nsubj-3 aux-3 advmod-3 ROOT-3 det-5 dobj-3 case-8 nmod:poss-8 nmod-3
